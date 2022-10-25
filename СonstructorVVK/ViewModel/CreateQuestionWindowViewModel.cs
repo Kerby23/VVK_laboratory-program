@@ -9,7 +9,7 @@ namespace СonstructorVVK.ViewModel
     {
         public string DisplayedImagePath
         {
-            get { return @"C:\Users\1\git\VVK_laboratory-program\СonstructorVVK\recources\images\logo.png"; }
+            get { return @"/recources/images/logo.png"; }
         }
 
         public ICreateQuestionWindowsCodeBehind CodeBehind { get; set; }
